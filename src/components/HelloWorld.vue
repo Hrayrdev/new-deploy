@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-      <h1>Мага НЕМУЖЧИНА</h1>
+      <h1>Ленор НЕМУЖЧИНА</h1>
   </div>
 </template>
 
